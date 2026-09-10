@@ -164,23 +164,17 @@ YuNet + YOLOv8 are combined for real-time face and object detection.
 
 > Add your three meaningful project screenshots in the `screenshots/` folder using the filenames below.
 
-### 🧹 Screenshot 1 — Classical Image Processing
+### 🧹 Screenshot 1 
 
-![Classical Image Processing](screenshots/screenshot1.png)
+- ![masked](masked.png)
 
-*Morphology, bitwise operations and histogram analysis.*
+### 🙂 Screenshot 2
 
-### 🙂 Screenshot 2 — YuNet Face Detection
+- ![person](person.png)
 
-![YuNet Face Detection](screenshots/screenshot2.png)
+### 🎯 Screenshot 3 
 
-*YuNet face detection with bounding boxes, landmarks and confidence scores.*
-
-### 🎯 Screenshot 3 — YOLO / Integrated Pipeline
-
-![YOLO Integrated Pipeline](screenshots/screenshot3.png)
-
-*YOLO object detection and integrated real-time detection results.*
+- ![chair](chair.png)
 
 ---
 
