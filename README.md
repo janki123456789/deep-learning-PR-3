@@ -200,6 +200,10 @@ For a **cloud server**, a larger model such as **YOLOv8s** can be considered whe
 
 ---
 
+## 🎥 Project Explanation Video
+
+🎬 **[Watch Project Explanation Video](https://drive.google.com/file/d/1M61jIoF8PICiEr1Hvc7HePPYoslfWOkf/view?usp=sharing)**
+
 # 🏁 Conclusion
 
 This project demonstrates how classical computer vision and deep learning can work together in a practical real-time pipeline.
